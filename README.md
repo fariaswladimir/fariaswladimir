@@ -93,6 +93,16 @@ Ao longo da carreira, gerenciei **80+ projetos** em setores como financeiro, sa�
 ![Jupyter]<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook"/>
 </div>
 
+# Linguagens & Análise de Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60" height="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/>
+</p>
+
 ### Gestão & Produtividade
 <div>
 
