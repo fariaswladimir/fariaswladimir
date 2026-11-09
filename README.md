@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/54399432?v=4" width="120" style="border-radius: 50%;" alt="Wladimir Farias"/>
+<img src="https://avatars.githubusercontent.com/u/54399432?v=4" width="120" alt="Wladimir Farias"/>
 
 # Wladimir Farias Tenório Filho
 ### AI Program Manager · PhD Researcher in XAI & Multi-Agent Systems
@@ -87,18 +87,12 @@ Ao longo da carreira, gerenciei **80+ projetos** em setores como financeiro, sa�
 ## 🛠️ Stack & Ferramentas
 
 ### Linguagens & Análise de Dados
-<div>
-![python]<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-![R]<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" title="R"/>
-![Jupyter]<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook"/>
-   
-</div>
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-
-![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)
-
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter Notebook"/>
+</p>
 
 ### Gestão & Produtividade
 <div>
@@ -124,27 +118,19 @@ Ao longo da carreira, gerenciei **80+ projetos** em setores como financeiro, sa�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fariaswladimir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariaswladimir&layout=compact&langs_count=7&theme=dracula)
-
-</div>
-
----
-
 ## 📁 Repositórios em Destaque
 
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
-| [🫘 dry_beans_ML](https://github.com/fariaswladimir/dry_beans_ML) | Classificação multiclasse com ML aplicado a dataset de feijões secos | Jupyter / Python |
-| [🚢 Titanic](https://github.com/fariaswladimir/Titanic) | Análise exploratória e predição de sobrevivência no dataset Titanic | Jupyter / Python |
+| [🔎 Raio-X de Textos](https://github.com/fariaswladimir/raio-x) | Análise textual local de corpus para revisões de literatura (RSL/MLR), com cada resultado ligado à página de origem | Python |
+| [📚 RSL-GUEST](https://github.com/fariaswladimir/RSL-GUEST) | Kit de Spec-Driven Development para um sistema de apoio à RSL "XAI for Multi-Agent Systems" | Python |
+| [🤖 adoption_MAS](https://github.com/fariaswladimir/adoption_MAS) | Sistema Multiagente para apoio ao processo de adoção no Brasil (fork de finance_agent) | Python |
+| [📺 yt-kids-insights](https://github.com/fariaswladimir/yt-kids-insights) | Relatório do consumo infantil de YouTube a partir da exportação do Google Takeout | Python |
+| [🎮 tapdefense-studio](https://github.com/fariaswladimir/tapdefense-studio) | Plataforma para criar jogos de defesa por toque (em construção) | JavaScript |
 | [📐 PLSSEM](https://github.com/fariaswladimir/PLSSEM) | Modelagem com Partial Least Squares SEM | R |
 | [📰 NLP Fake News](https://github.com/fariaswladimir/NLP-Fake-News-Detector-Coursera) | Detector de fake news com Machine Learning (Coursera) | Jupyter / Python |
-| [🤖 adoption_MAS](https://github.com/fariaswladimir/adoption_MAS) | Exploração de Sistemas Multiagentes aplicados a finanças | Python |
+| [🫘 dry_beans_ML](https://github.com/fariaswladimir/dry_beans_ML) | Classificação multiclasse com ML aplicado a dataset de feijões secos | Jupyter / Python |
+| [🚢 Titanic](https://github.com/fariaswladimir/Titanic) | Análise exploratória e predição de sobrevivência no dataset Titanic | Jupyter / Python |
 
 ---
 
@@ -185,6 +171,3 @@ Ao longo da carreira, gerenciei **80+ projetos** em setores como financeiro, sa�
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fariaswladimir.fariaswladimir)
 
 </div>
-
-  
-  
